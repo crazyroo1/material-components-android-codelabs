@@ -5,6 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
+import com.google.codelabs.mdc.kotlin.shrine.R
 
 /**
  * Fragment representing the login screen for Shrine.
